@@ -1,7 +1,10 @@
 ### 您好 👋
 ![](https://github-readme-stats.vercel.app/api?username=yzl3014&show_icons=true&theme=dark&count_private=true)
-<img src="https://visitor-badge.glitch.me/badge?page_id=github.com/yzl3014&right_color=red" />
-如果您需要更详细的介绍，欢迎来到我的blog:https://yuanzj.top/ ！
+<br>
+<img src="https://visitor-badge.glitch.me/badge?page_id=github.com/yzl3014&right_color=red" /><br>
+<img src="https://img.shields.io/static/v1?label=学历&message=初二&color=red"/>
+<img src="https://img.shields.io/static/v1?label=技术&message=计算机&color=blue"/>
+如果您需要更详细的介绍，欢迎来到<a href="https://yuanzj.top/">我的blog</a> ！
 <!--
 **yzl3014/yzl3014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+<script>LA.init({id: "JhXh41wvo6MRGEaV",ck: "JhXh41wvo6MRGEaV",autoTrack:true,hashMode:true})</script>
