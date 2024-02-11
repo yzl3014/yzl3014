@@ -3,6 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yzl3014&layout=compact&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👋 About me
-A middle school student.
 
-Welcome to my blog: https://www.yuanzj.top/
+I often modify these contents, so please come here to read the latest: https://www.yuanzj.top/about/
+
+(P.S.) My blog only uses Simplified Chinese.
