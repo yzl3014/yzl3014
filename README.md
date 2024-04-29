@@ -7,3 +7,7 @@
 I often modify these contents, so please come here to read the latest: https://www.yuanzj.top/about/
 
 (P.S.) My blog only uses Simplified Chinese.
+
+## 💬 Contact me
+
+Email: `yzl30141@gmail.com`
