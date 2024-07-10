@@ -10,4 +10,7 @@ I often modify these contents, so please come here to read the latest: https://w
 
 ## 💬 Contact me
 
-Email: `yzl30141@gmail.com`
+
+Email: `yzj09@hotmail.com`
+
+Telegram: [t.me/yzl3014](https://t.me/yzl3014)
