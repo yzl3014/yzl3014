@@ -27,17 +27,17 @@ I put the programs I developed and thought were worth releasing as open source o
 
 I've been programming in **[Easy Programming Language](https://en.wikipedia.org/wiki/Easy_Programming_Language)** for a long time, and before that, I was programming in **[Scratch](https://scratch.mit.edu/)**. Then I started writing **Python** and very **simple C/C++**.
 
-In May 2022, I set up [my blog](https://www.yuanzj.top/) and have been running it ever since. After that, I started **web programming**. I used **JavaScript** to write the frontend, **PHP** to write the backend. I wrote some web projects, installed themes and plugins for my blog. My blog has been joined many projects: [Travellings](https://github.com/travellings-link/travellings), [ForeverBlog](https://foreverblog.cn/blog/5213.html), [StoreWeb.cn](https://storeweb.cn/site/o/1815), [BlogFinder](https://bf.zzxworld.com/s/690).
+In May 2022, I set up [my blog](https://www.yuanzj.top/) and have been running it ever since. After that, I started **web programming**. I used **JavaScript** to write the frontend, **PHP** to write the backend. The blog has been joined many projects: [Travellings](https://github.com/travellings-link/travellings), [ForeverBlog](https://foreverblog.cn/blog/5213.html), [StoreWeb.cn](https://storeweb.cn/site/o/1815), [BlogFinder](https://bf.zzxworld.com/s/690).
 
-In other aspects, I have installed systems on my computer many times. I once installed MS-DOS 7.10, Windows 98, XP, Vista, Android-x86 on VMware, Windows 7, 8.1, 10, 11 on my laptop. I have installed dual systems of Windows 7 with 10, then Windows 10 with Ubuntu 22.04 on my computer at home. I once reinstalled the system on my router and rooted my old Redmi phone.
+I once installed MS-DOS 7.10, Windows 98, XP, Vista, Android-x86 on VMware, Windows 7, 8.1, 10, 11 on my laptop. I have installed dual systems of Windows 7 with 10, then Windows 10 with Ubuntu 22.04 on my computer at home. I once reinstalled the system on my router and rooted my old Redmi phone.
 
-In February 2023, I signed up for Telegram and began exploring other *foreign websites* (many of them are blocked by [GFW](https://en.wikipedia.org/wiki/Great_Firewall)), including registering a lot of useless email addresses and several forum accounts.
+<!--In February 2023, I signed up for Telegram and began exploring other *foreign websites* (many of them are blocked by [GFW](https://en.wikipedia.org/wiki/Great_Firewall)), including registering a lot of useless email addresses and several forum accounts.-->
 
-🗺 The rest of the experience is not very technical. If you want to know more, please visit my blog, which is only available in Chinese.
-
-**Blog:** https://www.yuanzj.top/
+<!--🗺 The rest of the experience is not very technical. If you want to know more, please visit my blog, which is only available in Chinese.-->
 
 ## 💬 Contact me
+
+Blog: https://www.yuanzj.top/
 
 Email: `yzj09@hotmail.com`
 
