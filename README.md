@@ -28,7 +28,7 @@ I like to explore the world of technology and trying interesting things along th
 
 Blog: https://www.yuanzj.top/
 
-Email: `atomjun@yahoo.com`
+Email: `yzl3014@outlook.com`
 
 QQ (Base64 encoded): `MjE0NTUzMjcwNQ==`
 
