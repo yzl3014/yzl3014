@@ -12,24 +12,31 @@ I like to explore the world of technology and trying interesting things along th
 ## 📃 Experience
 
 **Programming:**
-1. Easy Programming Language(易语言)
-2. Websites coding and building
-3. Xiaomi Vela JS applications development
+1. Xiaomi Vela JS applications development
+2. Easy Programming Language(易语言)
+3. Websites coding and building
 4. Scratch 3
 
 **Other:**
+- Developed several Xiaomi smart band applications, with a total download volume of thousands. Check out my work on [BandBBS.cn](https://www.bandbbs.cn/members/427458/#resources).
 - Have used Hexo, Typecho to build blog websites many times
 - System installation experience: MS-DOS 7.10, Windows 98, XP, 7, 8.1, 10, 11, Android-x86
 - Dual system installation experience: Windows 7 with 10, Windows 10 with Ubuntu 22.04
-- rooted an old Redmi phone
-- made lots of videos using Capcut and posted them on Bilibili
+- Rooted an old Redmi phone
+- Made lots of videos using Capcut and posted them on Bilibili
 
 ## 💬 Contact me
 
+If you're viewing this on desktop, there will be more links on the left.
+
 Blog: https://www.yuanzj.top/
 
-Email: `yzl3014@outlook.com`
+Email: `yzl3014[at]outlook.com` (Replace `[at]` with `@`)
 
 QQ (Base64 encoded): `MjE0NTUzMjcwNQ==`
 
+Telegram: [yzl3014](https://t.me/yzl3014)
+
 Keybase: [yuanzj](https://keybase.io/yuanzj)
+
+BandBBS.cn (米坛社区): https://www.bandbbs.cn/members/427458/
