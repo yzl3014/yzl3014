@@ -1,6 +1,7 @@
 # 👋 Hi There! ![](https://komarev.com/ghpvc/?username=yzl3014)
 <div align="center">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=yzl3014&show_icons=true&rank_icon=github" /><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzl3014&layout=compact&size_weight=0.5&count_weight=0.5" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=yzl3014&show_icons=true&rank_icon=github" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzl3014&layout=compact" />
 </div>
 
 ## 🕶 About me
@@ -24,19 +25,26 @@ I like to explore the world of technology and trying interesting things along th
 - Dual system installation experience: Windows 7 with 10, Windows 10 with Ubuntu 22.04
 - Rooted an old Redmi phone
 - Made lots of videos using Capcut and posted them on Bilibili
+- Used JSDesign and MasterGo to create the cover for my projects
 
 ## 💬 Contact me
 
 If you're viewing this on desktop, there will be more links on the left.
 
-Blog: https://www.yuanzj.top/
+Note: I post in English on X and in Chinese on Bluesky.
 
-Email: `yzl3014[at]outlook.com` (Replace `[at]` with `@`)
+- Blog (Simplified Chinese): https://www.yuanzj.top/
 
-QQ (Base64 encoded): `MjE0NTUzMjcwNQ==`
+- Email: `yzl3014#outlook.com` (Replace `#` with `@`)
 
-Telegram: [yzl3014](https://t.me/yzl3014)
+- QQ (Base64 encoded): `MjE0NTUzMjcwNQ==`
 
-Keybase: [yuanzj](https://keybase.io/yuanzj)
+- Telegram (no advertising): [yzl3014](https://t.me/yzl3014)
 
-BandBBS.cn (米坛社区): https://www.bandbbs.cn/members/427458/
+- Keybase: [yuanzj](https://keybase.io/yuanzj)
+
+- BandBBS.cn (米坛社区): https://www.bandbbs.cn/members/427458/
+
+## Sponsor
+
+<a href="https://afdian.com/a/yzl3014" target="_blank"><img src="https://pic1.imgdb.cn/item/689bea3358cb8da5c81fbf83.png" height="70" /></a>
