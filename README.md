@@ -1,7 +1,7 @@
 # 👋 Hi There! ![](https://komarev.com/ghpvc/?username=yzl3014)
 <div align="center">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=yzl3014&show_icons=true&rank_icon=github" />
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzl3014&layout=compact" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=yzl3014&show_icons=true&rank_icon=github&include_all_commits=true&theme=buefy&hide_border=true" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzl3014&layout=compact&theme=buefy&hide_border=true" />
 </div>
 
 ## 🕶 About me
