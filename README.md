@@ -1,6 +1,6 @@
 # 👋 Hi There! ![](https://komarev.com/ghpvc/?username=yzl3014)
 
-| <img height="195px" src="https://github-readme-stats.vercel.app/api?username=yzl3014&show_icons=true&rank_icon=github&include_all_commits=true&theme=buefy&hide_border=true" /> | <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzl3014&layout=compact&theme=buefy&hide_border=true" /> |
+| <img height="195px" src="https://github-readme-stats.vercel.app/api?username=yzl3014&show_icons=true&rank_icon=github&include_all_commits=true&theme=buefy&hide_border=true" /> | <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzl3014&layout=compact&theme=buefy&hide_border=true" /> | 
 | ------------- | ------------- |
 
 ## 🕶 About me
@@ -44,6 +44,13 @@ Note: I post in English on X and in Chinese on Bluesky.
 
 - BandBBS.cn (米坛社区): https://www.bandbbs.cn/members/427458/
 
+## 👨‍💻 Wakatime
+
+<img src="https://wakatime.com/share/@fc57fbe3-baf9-4a01-b80f-43a9f37e6f21/8bea4f1e-32c0-4363-94f9-42e3596d2f20.png"/>
+
 ## Sponsor
 
 <a href="https://afdian.com/a/yzl3014" target="_blank"><img src="https://pic1.imgdb.cn/item/689bea3358cb8da5c81fbf83.png" height="70" /></a>
+
+| <img width="200" height="200" alt="Bitcoin Address QRCode" src="https://github.com/user-attachments/assets/31b3e2ba-1d86-4aae-9712-1241d71bc289" /><br>Bitcoin |
+| ------------- |
