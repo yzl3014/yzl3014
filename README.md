@@ -20,11 +20,9 @@ I like to explore the world of technology and trying interesting things along th
 **Other:**
 - Developed several Xiaomi smart band applications, with a total download volume of thousands. Check out my work on [BandBBS.cn](https://www.bandbbs.cn/members/427458/#resources).
 - Have used Hexo, Typecho to build blog websites many times.
-- System installation experience: MS-DOS 7.10, Windows 98, XP, 7, 8.1, 10, 11, Android-x86.
-- Dual system installation experience: Windows 7 with 10, Windows 10 with Ubuntu 22.04.
-- Rooted an old Redmi phone.
+- Virtual machine (especially VMware) system installation experience: MS-DOS 7.10, Windows 98, XP, 7, 8.1, 10, 11, Android-x86, Ubuntu, Kubuntu.
 - Made lots of videos using Capcut and posted them on Bilibili.
-- Used JSDesign and MasterGo to create the cover for the projects.
+- Used JSDesign and MasterGo to create images for my projects.
 
 ## 💬 Contact me
 
@@ -35,7 +33,7 @@ Note: I post in English on X and in Chinese on Bluesky.
 - Blog (Simplified Chinese): https://www.yuanzj.top/
 - Email: `yzl3014#outlook.com` (Replace `#` with `@`)
 - QQ (Base64 encoded): `MjE0NTUzMjcwNQ==`
-- Telegram (no advertising): [yzl3014](https://t.me/yzl3014)
+- Telegram (no advertising): `yzl3014`
 - Keybase: [yuanzj](https://keybase.io/yuanzj)
 - BandBBS.cn (米坛社区): https://www.bandbbs.cn/members/427458/
 
