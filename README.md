@@ -21,7 +21,7 @@ I like to explore the world of technology and trying interesting things along th
 - Developed several Xiaomi smart band applications, with a total download volume of thousands. Check out my work on [BandBBS.cn](https://www.bandbbs.cn/members/427458/#resources).
 - Have used Hexo, Typecho to build blog websites many times.
 - Virtual machine (especially VMware) system installation experience: MS-DOS 7.10, Windows 98, XP, 7, 8.1, 10, 11, Android-x86, Ubuntu, Kubuntu.
-- Made lots of videos using Capcut and posted them on Bilibili.
+- Made lots of videos using Capcut and posted them on Bilibili and YouTube.
 - Used JSDesign and MasterGo to create images for my projects.
 
 ## 💬 Contact me
@@ -41,7 +41,9 @@ Note: I post in English on X and in Chinese on Bluesky.
 
 ![](https://wakatime.com/share/@fc57fbe3-baf9-4a01-b80f-43a9f37e6f21/f6bafada-6642-47d9-9099-c7ccbec4f8ea.png)
 
+*The data might look somewhat strange due to the busy high school schedule.
+
 ## Sponsor
 
-| <a href="https://afdian.com/a/yzl3014" target="_blank"><img src="https://pic1.imgdb.cn/item/689bea3358cb8da5c81fbf83.png" height="70" /></a><br>AFDIAN | <img width="200" height="200" alt="Bitcoin Address QRCode" src="https://github.com/user-attachments/assets/31b3e2ba-1d86-4aae-9712-1241d71bc289" /><br>Bitcoin | <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/4764170d-34ec-47b8-aeb9-34078e91a66e" /><br>Ethereum |
-| ------------- | ------------- | ------------- |
+| <a href="https://afdian.com/a/yzl3014" target="_blank"><img src="https://pic1.imgdb.cn/item/689bea3358cb8da5c81fbf83.png" height="70" /></a><br>AFDIAN | <img width="200" height="200" alt="Bitcoin Address QRCode" src="https://github.com/user-attachments/assets/31b3e2ba-1d86-4aae-9712-1241d71bc289" /><br>Bitcoin |
+| ------------- | ------------- |
