@@ -1,6 +1,6 @@
 # 👋 Hi There! ![](https://komarev.com/ghpvc/?username=yzl3014)
 
-| <img height="195px" src="https://github-readme-stats.vercel.app/api?username=yzl3014&show_icons=true&rank_icon=github&include_all_commits=true&theme=buefy&hide_border=true" /> | <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yzl3014&layout=compact&theme=buefy&hide_border=true" /> | 
+| <img height="195px" src="https://yzl3014-github-readme-stats.vercel.app/api?username=yzl3014&show_icons=true&rank_icon=github&include_all_commits=true&theme=buefy&hide_border=true" /> | <img height="195px" src="https://yzl3014-github-readme-stats.vercel.app/api/top-langs/?username=yzl3014&layout=compact&theme=buefy&hide_border=true" /> | 
 | ------------- | ------------- |
 
 ## 🕶 About me
@@ -28,20 +28,12 @@ I like to explore the world of technology and trying interesting things along th
 
 If you're viewing this on desktop, there will be more links on the left.
 
-Note: I post in English on X and in Chinese on Bluesky.
-
 - Blog (Simplified Chinese): https://www.yuanzj.top/
 - Email: `yzl3014#outlook.com` (Replace `#` with `@`)
 - QQ (Base64 encoded): `MjE0NTUzMjcwNQ==`
 - Telegram (no advertising): `yzl3014`
 - Keybase: [yuanzj](https://keybase.io/yuanzj)
 - BandBBS.cn (米坛社区): https://www.bandbbs.cn/members/427458/
-
-## 👨‍💻 Wakatime
-
-![](https://wakatime.com/share/@fc57fbe3-baf9-4a01-b80f-43a9f37e6f21/f6bafada-6642-47d9-9099-c7ccbec4f8ea.png)
-
-*The data might look somewhat strange due to the busy high school schedule.
 
 ## Sponsor
 
