@@ -33,9 +33,3 @@ If you're viewing this on desktop, there will be more links on the left.
 - QQ (Base64 encoded): `MjE0NTUzMjcwNQ==`
 - Telegram (no advertising): `yzl3014`
 - Keybase: [yuanzj](https://keybase.io/yuanzj)
-- BandBBS.cn (米坛社区): https://www.bandbbs.cn/members/427458/
-
-## Sponsor
-
-| <a href="https://afdian.com/a/yzl3014" target="_blank"><img src="https://pic1.imgdb.cn/item/689bea3358cb8da5c81fbf83.png" height="70" /></a><br>AFDIAN | <img width="200" height="200" alt="Bitcoin Address QRCode" src="https://github.com/user-attachments/assets/31b3e2ba-1d86-4aae-9712-1241d71bc289" /><br>Bitcoin |
-| ------------- | ------------- |
