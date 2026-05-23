@@ -11,6 +11,9 @@ I like to explore the world of technology and trying interesting things along th
 
 Notice: My laptop is too old to perform demanding development environment and video editing tasks, this situation may not be resolved until next year (June 2027, after Gaokao).
 
+> [!TIP]
+> *yzl* is the first letter of the Chinese pinyin for pi (π) (Yuán Zhōu Lǜ), and *3014* means an approximate value of pi. The decimal point is replaced with 0, because 0 first appears in the 32nd decimal place of pi (it has a lower frequency in the earlier decimal places), and its shape resembles a point.
+
 ## Experience
 
 1. Xiaomi Vela JS applications development (obtained "Creator" title on [BandBBS.cn](https://www.bandbbs.cn/members/427458/))
@@ -29,4 +32,5 @@ Apart from July to August and February to March (summer and winter vacations), I
 
 - QQ (Base64 encoded): `MjE0NTUzMjcwNQ==`
 - Telegram: `@yzl3014`
+- Discord: https://discord.gg/VhrqMj8Z
 - Keybase: https://keybase.io/yuanzj
