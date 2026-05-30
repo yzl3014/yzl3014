@@ -1,7 +1,14 @@
-# Overview ![](https://komarev.com/ghpvc/?username=yzl3014)
+# Overview 
+
+<!--
+![](https://komarev.com/ghpvc/?username=yzl3014)
 
 | <img height="195px" src="https://yzl3014-github-readme-stats.vercel.app/api?username=yzl3014&show_icons=true&rank_icon=github&include_all_commits=true&theme=buefy&hide_border=true" /> | <img height="195px" src="https://yzl3014-github-readme-stats.vercel.app/api/top-langs/?username=yzl3014&layout=compact&theme=buefy&hide_border=true" /> | 
 | ------------- | ------------- |
+-->
+
+> [!TIP]
+> *yzl* is the first letter of the Chinese pinyin for pi (π) (Yuán Zhōu Lǜ), and *3014* means an approximate value of pi. The decimal point is replaced with 0, because 0 first appears in the 32nd decimal place of pi (it has a lower frequency in the earlier decimal places), and its shape resembles a point.
 
 ## About
 
@@ -10,9 +17,6 @@ I am a high school student in China.
 I like to explore the world of technology and trying interesting things along the way.
 
 Notice: My laptop is too old to perform demanding development environment and video editing tasks, this situation may not be resolved until next year (June 2027, after Gaokao).
-
-> [!TIP]
-> *yzl* is the first letter of the Chinese pinyin for pi (π) (Yuán Zhōu Lǜ), and *3014* means an approximate value of pi. The decimal point is replaced with 0, because 0 first appears in the 32nd decimal place of pi (it has a lower frequency in the earlier decimal places), and its shape resembles a point.
 
 ## Experience
 
@@ -29,8 +33,5 @@ Apart from July to August and February to March (summer and winter vacations), I
 
 - Email: `yzl3014#outlook.com` (Replace `#` with `@`)
 - Blog: https://www.yuanzj.top/
-
 - QQ (Base64 encoded): `MjE0NTUzMjcwNQ==`
 - Telegram: `@yzl3014`
-- Discord: https://discord.gg/VhrqMj8Z
-- Keybase: https://keybase.io/yuanzj
