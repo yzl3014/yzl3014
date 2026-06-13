@@ -35,3 +35,8 @@ Apart from July to August and February to March (summer and winter vacations), I
 - Blog: https://www.yuanzj.top/
 - QQ (Base64 encoded): `MjE0NTUzMjcwNQ==`
 - Telegram: `@yzl3014`
+
+To send encrypted emails, please use:
+- Email address:  `yzj#disroot.org` (Replace `#` with `@`)
+- Key ID: `94574F4799999999`
+- Public Key: https://github.com/yzl3014.gpg
